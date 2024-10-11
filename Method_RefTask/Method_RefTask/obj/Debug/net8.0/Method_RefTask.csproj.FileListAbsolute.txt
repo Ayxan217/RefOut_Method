@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Method_RefTask\Method_RefTask\obj\Debug\net8.0\Method_RefTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Method_RefTask\Method_RefTask\obj\Debug\net8.0\Method_RefTask.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Method_RefTask\Method_RefTask\obj\Debug\net8.0\Method_RefTask.AssemblyInfo.cs
+C:\Users\pc\source\repos\Method_RefTask\Method_RefTask\obj\Debug\net8.0\Method_RefTask.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Method_RefTask\Method_RefTask\bin\Debug\net8.0\Method_RefTask.exe
+C:\Users\pc\source\repos\Method_RefTask\Method_RefTask\bin\Debug\net8.0\Method_RefTask.deps.json
+C:\Users\pc\source\repos\Method_RefTask\Method_RefTask\bin\Debug\net8.0\Method_RefTask.runtimeconfig.json
+C:\Users\pc\source\repos\Method_RefTask\Method_RefTask\bin\Debug\net8.0\Method_RefTask.dll
+C:\Users\pc\source\repos\Method_RefTask\Method_RefTask\bin\Debug\net8.0\Method_RefTask.pdb
+C:\Users\pc\source\repos\Method_RefTask\Method_RefTask\obj\Debug\net8.0\Method_RefTask.dll
+C:\Users\pc\source\repos\Method_RefTask\Method_RefTask\obj\Debug\net8.0\refint\Method_RefTask.dll
+C:\Users\pc\source\repos\Method_RefTask\Method_RefTask\obj\Debug\net8.0\Method_RefTask.pdb
+C:\Users\pc\source\repos\Method_RefTask\Method_RefTask\obj\Debug\net8.0\Method_RefTask.genruntimeconfig.cache
+C:\Users\pc\source\repos\Method_RefTask\Method_RefTask\obj\Debug\net8.0\ref\Method_RefTask.dll
