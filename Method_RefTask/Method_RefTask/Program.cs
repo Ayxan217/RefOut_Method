@@ -4,42 +4,38 @@
     {
         static void Main(string[] args)
         {
-
-
             int[] arr = { 4, 8, 9, 0, 12, 5, 3 };
 
-            Console.Write("elave olunacaq elemrntlerin sayı: ");
-            int count = int.Parse(Console.ReadLine());
+            CustomResize(ref arr, 5, 9);
 
-            for (int i = 0; i < count; i++)
-            {
-                Console.Write(" elemntleri daxil edin: ");
-                int newNumber = int.Parse(Console.ReadLine());
-
-                CustomResize(ref arr, newNumber);
-            }
-            Console.WriteLine("yeni array: ");
+            Console.WriteLine("Yeni array: ");
             for (int i = 0; i < arr.Length; i++)
             {
                 Console.WriteLine(arr[i]);
             }
+            Console.Read(); // Console u açıq saxlamaq üçün
+
         }
 
-        public static void CustomResize(ref int[] arr, int newElement)
+        public static void CustomResize(ref int[] arr, params int[] newElements)
         {
+            int newLength = arr.Length + newElements.Length; 
+            int[] newArr = new int[newLength];
 
-            int[] newArr = new int[arr.Length + 1];
 
             for (int i = 0; i < arr.Length; i++)
             {
                 newArr[i] = arr[i];
             }
 
-            newArr[newArr.Length - 1] = newElement;
+
+            for (int i = 0; i < newElements.Length; i++)
+            {
+                newArr[arr.Length + i] = newElements[i];
+            }
+
             arr = newArr;
+            
         }
     }
-       
-    
 }
-
